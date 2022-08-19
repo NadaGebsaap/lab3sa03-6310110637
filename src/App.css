@@ -41,13 +41,15 @@
   text-align: center;
   width: 3em;
   font-size: 2em;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 4px 4px 8px 4px rgba(76, 134, 204, 0.6);
   margin: 1em;
   user-select: none;
  }
  .activeCard {
-  color: red;
-  background: pink;
+  color: rgb(3, 0, 3);
+  background: rgba(158, 216, 255, 0.475);
+  box-shadow: 4px 4px 8px 4px rgba(227, 117, 255, 0.6);
+  
  }
  
  
