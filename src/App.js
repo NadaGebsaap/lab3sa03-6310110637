@@ -12,6 +12,9 @@ function App() {
      {
       <WordCard value="hello"/>
      }
+     {
+        <WordCard value="computer"/>
+     }
      </div>
      );
     }
