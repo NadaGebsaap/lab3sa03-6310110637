@@ -5,10 +5,9 @@ import WordCard from './WordCard';
 
 function App() {
     return (
-    <div className='App.header'>
         
-        <p ></p>
-        Welcome to CARD GAME
+    <div className='App.header'>
+        <h1 className='header'>Welcome to CARD GAME</h1>
         <p></p>
      {
       <WordCard value="hello"/>
