@@ -39,6 +39,7 @@
 }
 .card {
   display: inline-block;
+  background-color: white;
   text-align: center;
   width: 3em;
   font-size: 2em;
@@ -64,7 +65,11 @@
  }
  .border_blue{
   border: solid 3px rgb(127, 197, 255);
+  background-color: #ffffff;
   display: inline-block;
   
+ }
+ .body{
+  background-color: rgb(252, 240, 255);
  }
  

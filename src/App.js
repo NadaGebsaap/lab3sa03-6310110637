@@ -6,7 +6,7 @@ import WordCard from './WordCard';
 function App() {
     return (
         
-    <div className='App.header'>
+    <div className='body'>
         <h1 className='header'>Welcome to CARD GAMEシ</h1>
         <p className='border_blue'>Please arrange the words correctly.</p>
      {
