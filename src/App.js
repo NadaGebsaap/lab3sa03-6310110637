@@ -15,6 +15,9 @@ function App() {
      {
         <WordCard value="computer"/>
      }
+     {
+        <WordCard value="light"/>
+     }
      </div>
      );
     }
