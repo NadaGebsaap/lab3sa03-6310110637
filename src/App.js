@@ -8,7 +8,7 @@ function App() {
         
     <div className='App.header'>
         <h1 className='header'>Welcome to CARD GAME</h1>
-        <p></p>
+        <p className='border_blue'>Please arrange the words correctly.</p>
      {
       <WordCard value="hello"/>
      }

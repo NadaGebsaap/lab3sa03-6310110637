@@ -62,5 +62,9 @@
   font-family:Arial, Helvetica, sans-serif;
   
  }
- 
+ .border_blue{
+  border: solid 3px rgb(127, 197, 255);
+  display: inline-block;
+  
+ }
  
